@@ -1,1 +1,0 @@
-alter table pymt_rem_mx add column vidya varchar(23);
