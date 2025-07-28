@@ -1,0 +1,6 @@
+mindb/pymt/ddl_rollback/master_20250728_1.sql
+mindb/pymt/dml_rollback/master_20250728_1.sql
+mindb/pymt/ddl_rollback/master_20250728_2.sql
+mindb/pymt/dml_rollback/master_20250728_2.sql
+mindb/pymt/ddl_rollback/master_20250728_3.sql
+mindb/pymt/dml_rollback/master_20250728_3.sql

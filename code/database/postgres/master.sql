@@ -1,0 +1,6 @@
+mindb/pymt/ddl/master_20250728_1.sql
+mindb/pymt/dml/master_20250728_1.sql
+mindb/pymt/ddl/master_20250728_2.sql
+mindb/pymt/dml/master_20250728_2.sql
+mindb/pymt/ddl/master_20250728_3.sql
+mindb/pymt/dml/master_20250728_3.sql
