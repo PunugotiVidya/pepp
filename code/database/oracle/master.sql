@@ -6,3 +6,5 @@ mindb/pymt/ddl/master_20250728_3.sql
 mindb/pymt/dml/master_20250728_3.sql
 mindb/pymt/ddl/master_20250730_1.sql
 mindb/pymt/dml/master_20250730_1.sql
+mindb/pymt/ddl/master_20250730_2.sql
+mindb/pymt/dml/master_20250730_2.sql
