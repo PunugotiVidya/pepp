@@ -8,3 +8,5 @@ mindb/pymt/ddl/master_20250730_1.sql
 mindb/pymt/dml/master_20250730_1.sql
 mindb/pymt/ddl/master_20250730_2.sql
 mindb/pymt/dml/master_20250730_2.sql
+mindb/pymt/ddl/master_20250731_1.sql
+mindb/pymt/dml/master_20250731_1.sql
